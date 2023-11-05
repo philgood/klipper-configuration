@@ -1,4 +1,5 @@
 # klipper-configuration <!-- omit in toc -->
+All credits go to @nielsvz for making an excellent repo covering the two printers I currently use.
 
 - [Setup](#setup)
 - [Printers](#printers)
