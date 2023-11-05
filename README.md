@@ -14,7 +14,7 @@ All credits go to @nielsvz for making an excellent repo covering the two printer
 Clone this repository into `~/klipper_config_github`:
 ```shell
 cd ~/klipper_config
-git clone https://github.com/nielsvz/klipper-configuration.git github
+git clone https://github.com/philgood/klipper-configuration.git github
 ```
 
 After cloning the repository make sure to include the main config file into `printer.cfg`:
@@ -31,6 +31,15 @@ Klipper config for Voron 2.4
 - 0.9 degree steppers for A/B (LDO)
 - 1.8 degree steppers for Z (LDO)
 - 1.8 degree stepper for extruder (LDO / Bondtech LGX)
+
+### Annex K3
+Klipper config for Annex K3
+- Octopus Pro v1.1
+- 4x TMC5160HV
+- 3x TMC2209
+- 1.8 degree steppers for X/Y (LDO)
+- 1.8 degree steppers for Z (LDO)
+- 1.8 degree stepper for extruder (LDO)
 
 #### Dockable probe (temporary until merged with Klipper)
 ```shell
